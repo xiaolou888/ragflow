@@ -163,7 +163,7 @@ releases! 🌟
 2. Clone the repo:
 
    ```bash
-   $ git clone https://github.com/infiniflow/ragflow.git
+   $ git clone https://github.com/xiaolou888/ragflow.git
    ```
 
 3. Start up the server using the pre-built Docker images:
