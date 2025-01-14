@@ -138,7 +138,7 @@
 2. 克隆仓库：
 
    ```bash
-   $ git clone https://github.com/infiniflow/ragflow.git
+   $ git clone https://github.com/xiaolou888/ragflow.git
    ```
 
 3. 进入 **docker** 文件夹，利用提前编译好的 Docker 镜像启动服务器：
